@@ -43,16 +43,16 @@ Once the application is installed and running, explore its features and user int
 
 #### Sign Up:
 - On the first launch, you will be prompted with the **Sign Up** screen.
-- Enter your **username**, **email**, and create a **master password**.
+- Enter your **username**, **email**,**Firstname**,**Lastname** and create a **password**.
 - Tap on **"Sign Up"** to create a new account.
-- The master password will be used for future logins and encrypting your stored passwords.
+- The password will be used for future logins and encrypting your stored passwords.
 
 ##### **Screenshot:**
 ![Sign Up](./app/Images/1.jpg)
 
 #### Sign In:
 - After registering, you will be redirected to the **Sign In** screen.
-- Enter your **email** and **master password**.
+- Enter your **email** and **password**.
 - Tap on **"Sign In"** to access your saved passwords.
 
 ##### **Screenshot:**

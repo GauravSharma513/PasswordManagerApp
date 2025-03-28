@@ -57,6 +57,7 @@ import com.example.passwormanager.home.util.PasswordInfoBox
 import com.example.passwormanager.home.util.PasswordTextField
 import com.example.passwormanager.home.data.Entity
 import com.example.passwormanager.ui.theme.BlueTheme
+import com.example.passwormanager.ui.theme.EditScreenColor
 
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -294,7 +295,7 @@ fun HomeScreen(
                         Text(
                             text = "Account Details",
                             fontSize = 20.sp,
-                            color = BlueTheme,
+                            color = EditScreenColor,
                             fontWeight = FontWeight.ExtraBold
                         )
                         CommonTextField(
@@ -353,8 +354,8 @@ fun HomeScreen(
 
 }
 
-@Preview(showBackground = true)
-@Composable
-fun PreviewMainScreen() {
-    HomeScreen({})
-}
+//@Preview(showBackground = true)
+//@Composable
+//fun PreviewMainScreen() {
+//    HomeScreen({})
+//}

@@ -11,4 +11,5 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
 val BlueTheme = Color(0XFF007FFF)
-val MainColor = Color(0xfff4e6e5)
+val MainColor = Color(0xf3f5fa)
+val EditScreenColor = Color(0xF9F9F9)
